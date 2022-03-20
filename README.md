@@ -1,5 +1,5 @@
-﻿# calculator_mobile
-
+﻿# Calculator_mobile
+## Author: Nguyễn Quang Huy - MSV: 19020013
 ## Video demo
 https://youtu.be/7znZyvaPLos
  
