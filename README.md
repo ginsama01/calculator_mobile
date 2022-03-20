@@ -1,4 +1,7 @@
 ﻿# calculator_mobile
+
+## Video demo
+https://youtu.be/7znZyvaPLos
  
 ## Install
 
